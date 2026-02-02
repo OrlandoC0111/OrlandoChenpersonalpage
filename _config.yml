@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : profile1.png
+  avatar           : "profile1.png"
   name             : "Ziyu Chen (Orlando)"
   pronouns         : "he/him" 
   bio              : "PhD student in Soil Science at Virginia Tech. Interested in machine learning, soil microbiology, and remote sensing."
